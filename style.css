@@ -1,0 +1,172 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+.cl {
+    clear: both;
+}
+
+.continar {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.section_1 .twiter_1 {
+    width: 400px;
+    float: left;
+    border: 1px solid brown;
+}
+
+.section_1 .twiter_2 {
+    width: 400px;
+    float: left;
+}
+
+.section_1 .twiter_3 {
+    width: 400px;
+    float: left;
+}
+
+.section_1 .twiter_1 .image {
+    float: left;
+    width: 70px;
+}
+
+.section_1 .twiter_1 .image img {
+    width: 70px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.section_1 .twiter_1 .content {
+    float: left;
+    width: 310px;
+    margin-left: 10px;
+}
+
+.section_1 .twiter_1 .content h2 {
+    float: left;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.section_1 .twiter_1 .content h2:hover {
+    text-decoration: underline;
+}
+
+.section_1 .twiter_1 .content h4 {
+    float: left;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+
+.section_1 .twiter_1 .content p {
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.section_1 .twiter_2 .content img {
+    width: 310px;
+    margin-top: 10px;
+}
+
+.section_2 {
+    width: 1200px;
+    
+}
+
+.section_2 .div1 {
+    width: 600px;
+    float: left;
+    border: 1px solid brown;
+}
+
+.section_2 .div1 .div11 {
+    width: 188px;
+    float: left;
+    margin-right: 15px;
+    box-sizing: border-box;
+    
+}
+.section_2 .div1 .div11 .div111{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div11 .div112{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div12 .div121{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div12 .div122{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div13 .div131{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div13 .div132{
+    border: 1px solid brown;
+}
+.section_2 .div1 .div13 .div133{
+    border: 1px solid brown;
+}
+.section_2 .div2 .div21 .div211{
+    border: 1px solid brown;
+}
+.section_2 .div2 .div21 .div212{
+    border: 1px solid brown;
+}
+.section_2 .div2 .div22 .div221{
+    border: 1px solid brown;
+}
+.section_2 .div2 .div22 .div222{
+    border: 1px solid brown;
+}
+
+.section_2 .div1 .div11 .div112 h2 {
+    text-align: center;
+}
+
+.section_2 .div1 .div11 .div112 p {
+    text-align: justify;
+}
+
+.section_2 .div1 .div12 .div121 p {
+    text-align: justify;
+}
+
+.section_2 .div1 .div12 {
+    width: 190px;
+    float: left;
+    margin-right: 15px;
+    box-sizing: border-box;
+}
+
+.section_2 .div1 .div13 {
+    width: 190px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.section_2 .div2 {
+    width: 590px;
+    float: left;
+    margin-left: 10px;
+    border: 1px solid brown;
+}
+
+.section_2 .div2 .div21 .div211 {
+    float: left;
+}
+
+.section_2 .div2 .div22 .div221 {
+    float: left;
+}
